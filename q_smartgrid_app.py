@@ -21,6 +21,18 @@
 
 import math
 import random
+# ---------- IEEE Header ----------
+import streamlit as st
+
+st.image("https://upload.wikimedia.org/wikipedia/commons/5/5f/IEEE_logo.svg", width=120)
+st.markdown("""
+### ⚡ **Q-SmartGrid — Generative AI & Quantum Energy Optimizer**
+#### 🎓 *IEEE Jordan SustainableTech Hackathon 2025*
+#### 🌍 *Petra University – Entrepreneurship with Generative AI for Human Good*
+#### 💡 *Team NextGen | Quantum + AI for Sustainable Campus Energy*
+---
+""")
+
 from datetime import datetime, timedelta
 
 import numpy as np
