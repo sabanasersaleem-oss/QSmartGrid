@@ -16,7 +16,7 @@
 #   - Cirq QAOA for optimization
 #   - Gemini for natural‑language recommendations
 #
-# Author: Team NextGen — Q‑SmartGrid
+# Author: Team: Q‑SmartGrid
 # -------------------------------------------------------------
 
 import math
