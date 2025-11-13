@@ -29,7 +29,7 @@ st.markdown("""
 ### ⚡ **Q-SmartGrid — Generative AI & Quantum Energy Optimizer**
 #### 🎓 *IEEE Jordan SustainableTech Hackathon 2025*
 #### 🌍 *Petra University – Entrepreneurship with Generative AI for Human Good*
-#### 💡 *Team NextGen | Quantum + AI for Sustainable Campus Energy*
+#### 💡 *Team Q‑SmartGrid | Quantum + AI for Sustainable Campus Energy*
 ---
 """)
 
